@@ -1,0 +1,70 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "sample post 1",
+      "content": "This is a content for post 1 ",
+      "userId": 2
+    },
+    {
+      "id": 2,
+      "title": "sample post 2",
+      "content": "This is a content for post 2 ",
+      "userId": 2
+    },
+    {
+      "id": 3,
+      "title": "sample post 1",
+      "content": "This is a content for post 3 ",
+      "userId": 4
+    },
+    {
+      "id": 4,
+      "title": "sample post 4",
+      "content": "This is a content for post 4 ",
+      "userId": 2
+    },
+    {
+      "id": 5,
+      "title": "sample post 5",
+      "content": "This is a content for post 5 ",
+      "userId": 1
+    }
+  ],
+  "users": [
+    {
+      "name": "Kumar Sanu",
+      "id": 1,
+      "isOnline": false,
+      "website": "https://something.com",
+      "work": "Java Developer"
+    },
+    {
+      "id": 2,
+      "name": "Jane Doe",
+      "work": "Backend Developer",
+      "isOnline": false,
+      "website": "https://something.com"
+    },
+    {
+      "id": 3,
+      "name": "Kunal Jawanjalkar",
+      "work": "FrontEnd Developer",
+      "isOnline": true,
+      "website": "https://something.com"
+    },
+    {
+      "id": 4,
+      "name": "Jackson Doe",
+      "work": "Salesforce Developer",
+      "isOnline": false,
+      "website": "https://something.com"
+    },
+    {
+      "name": "Kunal ",
+      "work": "Java Developer",
+      "website": "randomstuff.com",
+      "id": 5
+    }
+  ]
+}
